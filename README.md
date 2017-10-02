@@ -1,6 +1,6 @@
 # PagueMob Code Challenge 
 
-## Puporse 
+## Purpose 
 
 We want to have a glimpse of your coding skills. How you navigate, organize and test your code.
 
