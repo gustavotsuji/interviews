@@ -58,7 +58,7 @@ For this task, we would like you to use the following tools:
 
 ## Test Submission
 
-If you have **any** doubts please get in thouch and clear them out before submiting your results.
+If you have **any** doubts please get in touch and clear them out before submiting your results.
 
 Submit your code to a public Github repository with short instructions on how to setup the system.
 Send the link of your repository to: [emanuella.souza@braspay.co](mailto:emanuella.souza@braspay.co)
