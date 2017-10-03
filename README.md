@@ -1,6 +1,6 @@
 # PagueMob Code Challenge 
 
-## Puporse 
+## Purpose 
 
 Show us how you write, structure and test your code.
 
