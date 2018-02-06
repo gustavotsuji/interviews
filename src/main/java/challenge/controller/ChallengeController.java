@@ -47,16 +47,4 @@ public class ChallengeController {
 			return new ResponseEntity<Employee>(HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 	}
-	/*
-	@RequestMapping(value="/companies/industries", produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<Pdv> getIndustries() {
-		try {
-			Pdv pdv = repository.findById(id);
-			return new ResponseEntity<Pdv>(pdv, HttpStatus.OK);
-		} catch (NoSuchElementException e) {
-			return new ResponseEntity<Pdv>(HttpStatus.NOT_FOUND);
-		} catch (Exception ex) {
-			return new ResponseEntity<Pdv>(HttpStatus.INTERNAL_SERVER_ERROR);
-		}
-	}*/
 }

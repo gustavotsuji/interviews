@@ -19,7 +19,6 @@ public class Application {
 	@Bean
 	public CommandLineRunner demo(IEmployeeRepository employeeRepository, ICompanyRepository companyRepository) {
 		return (args) -> {
-			//employeeRepository.save(EmployeeFactory.build());
 			companyRepository.save(CompanyFactory.build());
 		};
 	}
